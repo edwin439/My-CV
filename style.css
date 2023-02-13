@@ -1,0 +1,60 @@
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #000000;
+
+  }
+  
+
+
+.profile-img{
+    height: 350px;
+  margin-bottom: 20px;
+    background-color: rgb(47, 255, 0);
+    border-bottom: 10px black solid;
+    text-align: center;
+    color: white;
+
+}
+img{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 150px;
+    height: 250px;
+}
+
+li{
+    list-style-type: none;
+}
+ul{
+    padding: 0%;
+}
+.card .progress.percentage {
+   width: 0;
+    background-color: #eaff00;
+    
+  }
+  .lenguaje .progress.percentage {
+   width: 0;
+    background-color: #ef0505;
+    
+    
+  }
+.card{
+    padding: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: rgb(217, 217, 217);
+    width: 400px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+h2{
+    color: white;
+}
+h2 i {
+    color: black;
+}
